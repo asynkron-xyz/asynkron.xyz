@@ -27,6 +27,7 @@ body {
     color: var(--body-color);
     max-width: 66ch;
     margin: 8px auto;
+    padding: 8px;
     line-height: 1.25em;
 }
 
