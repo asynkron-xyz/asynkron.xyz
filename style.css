@@ -6,6 +6,16 @@
     --selection: blue;
 }
 
+.image-container {
+    background-image: url("images/pfp.svg");
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
 @media (prefers-color-scheme: dark) {
     :root {
         --body-bg: #1E1E1E;
